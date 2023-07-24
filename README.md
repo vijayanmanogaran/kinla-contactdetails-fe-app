@@ -1,0 +1,1 @@
+# kinla-contactdetails-fe-app
